@@ -564,7 +564,7 @@ class session (pgraph.graph):
     ####################################################################################################################
     def import_file (self):
         '''
-        Load varous object values from disk.
+        Load various object values from disk.
 
         @see: export_file()
         '''
